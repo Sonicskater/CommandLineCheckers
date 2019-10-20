@@ -1,16 +1,17 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.31.1.
+-- This file has been generated from package.yaml by hpack version 0.31.2.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: e8025003279bca14812e30c9e0b2469ac972fa2b30e19167ba61336867c9bcb3
+-- hash: 7c847c871c6243544851e925f1309130a78fb1ed0cd536e7786c6fbb947855fb
 
 name:           tui
 version:        0.0.0.1
 homepage:       https://github.com/benjamin-macadam/Haskell-Checkers-Frontend#readme
 bug-reports:    https://github.com/benjamin-macadam/Haskell-Checkers-Frontend/issues
 license:        MIT
+license-file:   LICENSE
 build-type:     Simple
 
 source-repository head
