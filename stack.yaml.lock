@@ -18,6 +18,20 @@ packages:
       sha256: ff1a4e19517ad2b108e8b5c57a97f782c2ff851a757a691f6b34dbbfb21d31fe
   original:
     hackage: validity-0.8.0.0
+- completed:
+    hackage: conduit-1.2.13.1@sha256:afd4db7fe66ae7af3d418e1a932384a8dee08df2f6299cca80e53ba964ce1228,4371
+    pantry-tree:
+      size: 1191
+      sha256: c24b0058c187a98780d227072cb701efeca1571c1c88ca331e53799cc3d051fb
+  original:
+    hackage: conduit-1.2.13.1@sha256:afd4db7fe66ae7af3d418e1a932384a8dee08df2f6299cca80e53ba964ce1228,4371
+- completed:
+    hackage: conduit-extra-1.1.17@sha256:dfa0d00dc11a8a4c3fdff15374c378ee34c25a2255b52194aa1ea3c1f1a63fd7,4521
+    pantry-tree:
+      size: 2247
+      sha256: 2ba7cbdb0fcc7aee0d074ab8a721adf8d39d341164704241debf9ca19ebb6946
+  original:
+    hackage: conduit-extra-1.1.17@sha256:dfa0d00dc11a8a4c3fdff15374c378ee34c25a2255b52194aa1ea3c1f1a63fd7,4521
 snapshots:
 - completed:
     size: 506303
