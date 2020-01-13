@@ -60,5 +60,3 @@ applyMove _  s = case s^.status of
   Red -> setMessage $ set status Black s
   Black -> setMessage $ set status Red s
   _ -> initialGameState
-
- 

@@ -53,7 +53,6 @@ import GameLogic as SC
  Datatype Declarations:
 We begin with the datatype declarations,keeping them
 in a fixed area of the program for easy reference.
-
  The next task will involve translating these to
 Lenses, and dealing with the changes as the
 propograte throughout the code.
@@ -355,4 +354,3 @@ getMove = getMove'
 
 getMove' :: GameState -> [SC.Coord]
 getMove' _ = []
-

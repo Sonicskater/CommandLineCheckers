@@ -4,5 +4,3 @@ packages:
 extra-deps:
 - cursor-0.0.0.1
 - validity-0.8.0.0
-- conduit-1.2.13.1@sha256:afd4db7fe66ae7af3d418e1a932384a8dee08df2f6299cca80e53ba964ce1228,4371
-- conduit-extra-1.1.17@sha256:dfa0d00dc11a8a4c3fdff15374c378ee34c25a2255b52194aa1ea3c1f1a63fd7,4521
